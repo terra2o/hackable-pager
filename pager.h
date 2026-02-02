@@ -1,3 +1,5 @@
+/* pager.h */
+
 #ifndef PAGER_H
 #define PAGER_H
 

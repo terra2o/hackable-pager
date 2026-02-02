@@ -1,3 +1,6 @@
+/* pager.c */
+/* hackable-pager by terra2o */
+
 #include <ncurses.h>
 #include <stdlib.h>
 #include <string.h>
