@@ -4,6 +4,10 @@ hackable-pager is a small pager written in C using ncurses.
 
 ---
 
+<p align="center">
+	<img src="assets/hackable-pager-screenshot.png" width="822">
+</p>
+
 ## What is this?
 
 This project is a minimal text/code viewer that:
