@@ -108,9 +108,9 @@ int main(int argc, char *argv[])
 
     while ((ch = getch()) != 'q') 
     {
-        if (ch == KEY_DOWN && top_line < line_count - 1)
+        if (ch == KEY_DOWN && top_line < line_count - LINES)
             top_line++;
-        else if (ch == 'j' && top_line < line_count - 1)
+        else if (ch == 'j' && top_line < line_count - LINES)
             top_line++;
         else if (ch == KEY_UP && top_line > 0)
             top_line--;
